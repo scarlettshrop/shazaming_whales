@@ -3,7 +3,7 @@ Building a convolution neural network (CNN) to classify 3 whale species given au
 
 This project is a collaborative project between Colby Anderson, Salem Burtner, and Scarlett Shropshire
 
-Colby: 
+Colby: https://github.com/colbywanderson
 Salem: https://github.com/S-BURTNER
 Scarlett: https://github.com/Scarlettshrop
 
